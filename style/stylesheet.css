@@ -140,6 +140,7 @@ p{
        margin-left:200px;
    }
    body{
+       width: 400px;
     background-image: url("../img/fon_phone.svg");
     background-repeat: no-repeat;
    background-size: 100%;
